@@ -74,6 +74,6 @@ This project is licensed under the Lewis University.
 
 ## Author
 
+- Shivaraj Chinthakindi
 - Jayanth Sagar Molla
 - Koushik Vunguturi
-- Shivaraj Chinthakind

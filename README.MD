@@ -1,4 +1,4 @@
-# SMD Project Manager
+# SMB Project Manager
 
 ## Description
 
